@@ -1,0 +1,11 @@
+**The Four Questions**
+1. Verb: execute
+2. Object: a Swiss Army knife with one blade and nineteen empty slots
+3. Animal: a parrot that listens to exactly what you say, repeats it back with a fancier vocabulary, and then does the work without complaining
+4. Most annoying manual task: reading every file in your project, figuring out what change would make sense, making the change, and then explaining to the AI why your way was better
+
+**The Reality**
+This skill is a terminal-based AI coding assistant that thinks it is a minimalist poet but actually functions as a very obedient middle manager between you and seventeen different AI models. You type a prompt, it delegates to whatever model you configured, and then it does the actual file rewriting while you go get coffee. It has four operating modes because the developer believed strongly in giving you exactly the amount of interface you asked for, even if you only wanted one. The configuration system uses two separate directories — one global, one per project — because nothing says "I care about your mental load" like splitting your settings across two invisible folders you'll forget exist.
+
+**The Superpower and the Mockery**
+It will happily switch between Claude, GPT-4, Llama, or any custom model you configure while maintaining zero state because it believes memory is someone else's problem. The extensibility is genuinely impressive — you can build sub-agents, MCP adapters, custom skills, and whole new interaction patterns from scratch — but the base installation does almost nothing out of the box except stare at you expectantly. It technically handles fourteen configuration file formats, stream three different protocols, and integrate with virtually any AI provider that speaks HTTP, but you'll need to read the documentation to discover any of this works because the CLI help text was clearly written by someone who found explanation optional.

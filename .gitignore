@@ -1,0 +1,4 @@
+# Skill-internal ignores (in case this folder ever becomes its own repo).
+.env
+node_modules/
+.DS_Store

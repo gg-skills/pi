@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Skill icon">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#9333ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="35" fill="url(#g)"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="800" fill="#ffffff">GP</text>
+</svg>

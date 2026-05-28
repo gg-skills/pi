@@ -1,0 +1,11 @@
+name: pi
+interface:
+  display_name: GG → Pi → Coding Agent
+  short_description: Pi coding agent docs, extension API, packages, and configuration expert
+  icon_small: ./assets/icon-small.svg
+  icon_large: ./assets/icon-large.png
+  brand_color: '#6366F1'
+  default_prompt: >-
+    Use $pi when configuring, extending, or troubleshooting the pi coding agent. Covers CLI,
+    extensions, custom providers, models, packages, and RPC. Reference pi/SKILL.md when
+    cross-referencing this skill.
