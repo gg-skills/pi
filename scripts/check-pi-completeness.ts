@@ -6,7 +6,7 @@
  * Verifies a pi configuration operation against the 8-item Pi Quality Checklist.
  * 
  * Usage:
- *   npx tsx skills/pi/scripts/check-pi-completeness.ts
+ *   npx tsx .agents/skills/pi/scripts/check-pi-completeness.ts
  */
 
 import { argv } from "process";
