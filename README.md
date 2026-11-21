@@ -24,7 +24,7 @@ mkdir -p ~/.claude/skills
 git -C ~/.claude/skills clone git@github.com:gg-skills/pi.git
 ```
 
-Restart your agent or reload skills after installation. See the parent [`skills` catalog repo](https://github.com/gg-skills/skills) for the full catalog.
+Restart your agent or reload skills after installation. Browse public skills on the [GG Skills organization profile](https://github.com/gg-skills).
 
 ## When to use
 
